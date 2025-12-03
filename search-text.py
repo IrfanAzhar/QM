@@ -376,7 +376,9 @@ print(outputList)
 
 
 # the following code segment is used to print and save the computed weights in to a text file in Linux shell by the following command:
-#  python search-text.py > filename-to-store-the-weights.txt
+#  python search-text.py > QM-weight-18-October-2024-1st-version-ver-2.txt
+
+
 
 """
 
