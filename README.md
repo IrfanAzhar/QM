@@ -3,8 +3,9 @@ The Holy Quran was revelaed in Arabic language around 1400 years ago. The arabic
 
 search-text.py is the main code file to compute weights of the letters and other catgories. It also saves them in.csv files.
 
-The computer weights are given in separate .csv files. 
+The computed weights are given in separate .csv files. 
 dictQM_LL_.csv holds letter weights, dictQM_WW_.csv holds word weights, dictQM_AA_.csv holds verse weights, dictQM_SS_.csv holds chapter weights and dictQM_QM_.csv holds combined weight of the entire Quran Majeed.
+QM-weight-18-October-2024-1st-version-ver-2.txt contains the abovementioned weight-lists in one big file. The lists are separated by descriptive commnets.
 
 Students and hobbyists may find interesting patterns in thses listings of the weight when placed along geometric shapes and placed according to other innovative designs.
 
