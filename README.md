@@ -11,6 +11,8 @@ compute_single_digit_values.py is a general code which reads any of the main dic
 
 We tried to compute Fibonacci sequence for the arabic weights of letters and words but the effort was unsuccessful since the computations could not proceed beyond Fibonacci sum integer exceeding 4300 places. Then we conducted the same experiment with single-digit values of verses and chapters. This result is given in the respective files inidcated by their names.
 
+We also tried to encode the musical notes by letter and word weights. The reuslting letter-enoded music is tolerable to listen to but it is insignificant based on just auditory assessment. The music encoded by word-weights as the acyual frequency of the musical note is inconclusive.
+
 Students and hobbyists may find interesting patterns in thses listings of the weight when placed along geometric shapes and placed according to other innovative designs.
 
 It is much expected that enthusisasts of Cryptology may benefit from the patterns of Holy Quran.
